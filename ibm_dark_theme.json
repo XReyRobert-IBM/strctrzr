@@ -807,12 +807,6 @@
             "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg-dark/ibm-exposure-notification-for-enterprise.svg"
         },
         {
-            "tag": "Eye, generic",
-            "stroke": "#4285f4",
-            "color": "#4285f4",
-            "icon": "https://raw.githubusercontent.com/XReyRobert-IBM/strctrzr/main/svg-dark/eye-generic.svg"
-        },
-        {
             "tag": "IBM GS Risk",
             "stroke": "#4285f4",
             "color": "#4285f4",
